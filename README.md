@@ -3,7 +3,7 @@ This is a standalone executable java jar file that will accept as input a folder
 The output file can be opened in Shotcut and will produce a single play list with the selected clips.
 
 By default, the application produces progressively incremented segments of a 
-chosen length which are chosen randomly from the input files. The order of the output segments is also random.
+chosen length which are selected randomly from the input files. The order of the output segments is also random.
 Optionally, you can chose to join clips intact, and either have them appear in random or alphabetical order. To 
 use all the clips in a folder, specify a larger number of desired clips and the application will use all available.
 
