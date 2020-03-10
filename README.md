@@ -1,6 +1,5 @@
 # mconfetti
-This is a standalone executable java jar file that will accept as input a folder containing mp4 files and produces a ".mlt" file.
-The output file can be opened in Shotcut and will produce a single play list with the selected clips.
+This is a standalone executable java jar file that will accept as input a folder containing mp4, avi or mov files and produces a shotcut ".mlt" file. The output file can be opened in Shotcut and will produce a single play list with the selected clips.
 
 By default, the application produces progressively incremented segments of a 
 chosen length which are selected randomly from the input files. The order of the output segments is also random.
