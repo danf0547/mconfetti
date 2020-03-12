@@ -1,5 +1,7 @@
 # mconfetti
-This is a standalone executable java jar file that will accept as input a folder containing mp4, avi or mov files and produces a shotcut ".mlt" file. The output file can be opened in Shotcut and will produce a single play list with the selected clips.
+This is a standalone executable java jar file that will accept as input a folder containing mp4, avi, jpeg and png files 
+and produces a shotcut ".mlt" file. The output file can be opened in Shotcut and will produce a single play list 
+with the selected clips.
 
 By default, the application produces progressively incremented segments of a 
 chosen length which are selected randomly from the input files. The order of the output segments is also random.
@@ -12,3 +14,7 @@ list for programs.
 You need shotcut (free).
 This should work on a windows computer, and may work on a mac. I've not tested it.
 No warranties or guarantees of performance are made or implied.
+
+Log:
+
+12-3-2020: Added help feature and support for image files.
